@@ -1,4 +1,4 @@
-Plugin for YOURLS 1.6+: Custom Procols
+Plugin for YOURLS 1.6+: Custom Protocols
 
 # What for
 
