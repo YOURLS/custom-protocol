@@ -1,4 +1,6 @@
-# Plugin for YOURLS : Custom Protocols (example plugin) [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
+# Plugin for YOURLS : Custom Protocols [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
+
+> This is an example plugin - build on it !
 
 :bulb: This plugin requires YOURLS 1.6+
 
